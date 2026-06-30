@@ -22,7 +22,6 @@ The system combines semantic retrieval with Large Language Models (LLMs) to gene
 - HTML5
 - CSS3
 - JavaScript
-- Jinja2 Templates
 
 ### Backend
 - Python
@@ -51,18 +50,3 @@ The system combines semantic retrieval with Large Language Models (LLMs) to gene
 - GitHub
 - VS Code
 
-## Project Structure
-
-AI-Powered-Query-System/
-├── data/
-├── research/
-├── src/
-│   ├── helper.py
-│   ├── prompt.py
-│   └── ...
-├── static/
-├── templates/
-├── app.py
-├── requirements.txt
-├── Dockerfile
-└── README.md
